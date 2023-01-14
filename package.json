@@ -1,0 +1,10 @@
+{
+  "name": "@wcd/nachohumannow.cevue-lcwa3gbp",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 2tVOapQsEMPMzCdTyXfd --open"
+  },
+  "dependencies": {
+    "vue": "next"
+  }
+}
